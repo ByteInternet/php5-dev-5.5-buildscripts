@@ -1,0 +1,5 @@
+usr/share/debhelper/autoscripts/postrm-php5        usr/share/debhelper/autoscripts
+usr/share/debhelper/autoscripts/prerm-php5         usr/share/debhelper/autoscripts
+usr/share/debhelper/autoscripts/postinst-php5      usr/share/debhelper/autoscripts
+usr/share/perl5/Debian/Debhelper/Sequence/php5.pm  usr/share/perl5/Debian/Debhelper/Sequence
+usr/bin/dh_php5                                    usr/bin
